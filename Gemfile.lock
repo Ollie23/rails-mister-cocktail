@@ -188,7 +188,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  autoprefixer-rails
   bootstrap-sass
   byebug
   coffee-rails (~> 4.2)
